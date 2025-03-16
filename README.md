@@ -1,7 +1,10 @@
-- 🤙 Hi, I’m @czak89
-- 🤫 I am not a 'real' developer
-- 👁️‍🗨️ Mostly just looking
--  But, I'm interested in some dev stuff
-- 📫 Like CLI, Android kernels, AI work
-- 😄 I even have a website or two and a couple apps under my belt
-- ⚡ Fun fact: My real name is not czak89
+Hi, I’m @czak89
+
+
+(◔◡◔)🤙
+
+
+I'm here mostly for stuff that I use.
+
+
+Fun fact: My real name is not czak89
